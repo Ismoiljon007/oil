@@ -1,4 +1,4 @@
-const baseUrl = "http://34.125.54.253";
+const baseUrl = "http://oilchange.iteachpython.uz";
 interface suppliesAdd {
   name: string;
   price: number;

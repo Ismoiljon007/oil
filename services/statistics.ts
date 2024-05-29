@@ -1,4 +1,4 @@
-const baseUrl = "http://34.125.54.253";
+const baseUrl = "http://oilchange.iteachpython.uz";
 
 export default {
   getStatisitcs(token: string | null | undefined) {
