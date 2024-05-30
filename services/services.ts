@@ -1,4 +1,4 @@
-const baseUrl = "http://oilchange.iteachpython.uz";
+const baseUrl = "https://oilchange.iteachpython.uz";
 interface suppliesAdd {
   name: string;
   price: number;
