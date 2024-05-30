@@ -1,4 +1,4 @@
-const baseUrl = "http://oilchange.iteachpython.uz";
+const baseUrl = "https://oilchange.iteachpython.uz";
 
 export default {
   login(username: string, password: string) {
